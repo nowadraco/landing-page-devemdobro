@@ -42,7 +42,7 @@
         gap: 10px;
     }
 
-    .conteiner .imagem-titulo{
+    .informacoes .imagem-titulo{
         max-width: 75%;
     }
 
@@ -57,7 +57,11 @@
     }
 }
 
-@media (max-width: 376px){
+@media (max-width: 376px) {
+    .informacoes .imagem-titulo{
+        max-width: 80%;
+    }
+
     .modal #video{
         width: 250px;
         height: 140px;
