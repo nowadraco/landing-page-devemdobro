@@ -130,7 +130,7 @@ body{
     height: 360px;
 }
 
-.modal .aberto{
+.aberto{
     opacity: 1;
     visibility: visible;
 }
